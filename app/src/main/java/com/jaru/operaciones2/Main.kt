@@ -2,7 +2,7 @@ package com.jaru.operaciones2
 
 fun main(){
 
-    val Operaciones = Operaciones(6,7,4)
+    val Operaciones = Operaciones(8,7,4)
 
     Operaciones.sumar()
     Operaciones.restar()
